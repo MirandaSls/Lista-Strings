@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1650847714 source:c:\users\arthu\onedrive\documentos\estudos\c\lista de exercicios 2º\lista strings\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+
+1651079504 source:c:\users\arthu\documents\estudos\c\lista strings\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+
